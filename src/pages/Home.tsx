@@ -7,27 +7,27 @@ const products = [
   {
     id: 1,
     name: "Sports Runner Pro",
-    image: "src/assets/images/shoe/1.jpg"
+    image: "/assets/images/shoe/1.jpg"
   },
   {
     id: 2,
     name: "Comfort Walker Elite",
-    image: "src/assets/images/shoe/2.jpg"
+    image: "/assets/images/shoe/2.jpg"
   },
   {
     id: 3,
     name: "Urban Style X",
-    image: "src/assets/images/shoe/3.jpg"
+    image: "/assets/images/shoe/3.jpg"
   },
   {
     id: 4,
     name: "Performance Trail",
-    image: "src/assets/images/shoe/4.jpg"
+    image: "/assets/images/shoe/4.jpg"
   },
   {
     id: 5,
     name: "Casual Flex",
-    image: "src/assets/images/shoe/5.jpg"
+    image: "/assets/images/shoe/5.jpg"
   }
 ];
 
@@ -35,17 +35,17 @@ const collaborations = [
   {
     id: 1,
     name: "Skechers",
-    logo: "src/assets/images/logo/skechersLogo.png"
+    logo: "/assets/images/logo/skechersLogo.png"
   },
   {
     id: 2,
     name: "Steve Madden",
-    logo: "src/assets/images/logo/theNorthFaceLogo.png"
+    logo: "/assets/images/logo/theNorthFaceLogo.png"
   },
   {
     id: 3,
     name: "Crocs",
-    logo: "src/assets/images/logo/crocsLogo.png"
+    logo: "/assets/images/logo/crocsLogo.png"
   }
 ];
 

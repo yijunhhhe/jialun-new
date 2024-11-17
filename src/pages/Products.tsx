@@ -7,56 +7,56 @@ const products = [
     id: 1,
     name: "Sports Runner Pro",
     category: "Sports",
-    image: "src/assets/images/shoe/1.jpg",
+    image: "/assets/images/shoe/1.jpg",
     description: "High-performance running shoe with advanced cushioning"
   },
   {
     id: 2,
     name: "Comfort Walker Elite",
     category: "Casual",
-    image: "src/assets/images/shoe/2.jpg",
+    image: "/assets/images/shoe/2.jpg",
     description: "Premium comfort for everyday wear"
   },
   {
     id: 3,
     name: "Urban Style X",
     category: "Fashion",
-    image: "src/assets/images/shoe/3.jpg",
+    image: "/assets/images/shoe/3.jpg",
     description: "Modern design meets street style"
   },
   {
     id: 4,
     name: "Performance Trail",
     category: "Sports",
-    image: "src/assets/images/shoe/4.jpg",
+    image: "/assets/images/shoe/4.jpg",
     description: "Rugged durability for trail running"
   },
   {
     id: 5,
     name: "Casual Flex",
     category: "Casual",
-    image: "src/assets/images/shoe/5.jpg",
+    image: "/assets/images/shoe/5.jpg",
     description: "Flexible comfort for casual wear"
   },
   {
     id: 6,
     name: "Fashion Forward",
     category: "Fashion",
-    image: "src/assets/images/shoe/6.jpg",
+    image: "/assets/images/shoe/6.jpg",
     description: "Trendsetting design for fashion enthusiasts"
   },
   {
     id: 7,
     name: "Athletic Pro",
     category: "Sports",
-    image: "src/assets/images/shoe/7.jpg",
+    image: "/assets/images/shoe/7.jpg",
     description: "Professional-grade athletic performance"
   },
   {
     id: 8,
     name: "Daily Comfort Plus",
     category: "Casual",
-    image: "src/assets/images/shoe/8.jpg",
+    image: "/assets/images/shoe/8.jpg",
     description: "Enhanced comfort for daily activities"
   }
 ];
